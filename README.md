@@ -1,44 +1,10 @@
-# 1st-Year-Activities
+Java First Year Activities Repository
 
-This repository contains Java programs and activities completed during the freshman year. These activities cover various concepts and topics learned throughout the academic year.
+Welcome to the Java First Year Activities Repository! This repository contains a collection of Java programs and projects completed during your first year of Java programming. From introductory exercises to more complex projects, this repository showcases your journey in learning Java programming concepts and techniques.
 
-List of Activities:
+Contents
 
-    ArrayValueAnalyzer.java
-        Description: Java program for analyzing values in an array.
-        
-    AverageProductCalculator.java
-        Description: Java program for calculating the average and product of a set of numbers.
-        
-    BarangaySchemeValidator.java
-        Description: Java program implementing a validator for a barangay scheme based on codes and temperature.
-        
-    CharArrayAnalyzer.java
-        Description: Java program for analyzing characters in a character array.
-        
-    CharacterSorter.java
-        Description: Java program with a menu system for sorting numbers and detecting characteristics of characters.
-        
-    GradeCalculator.java
-        Description: Java program for computing the term grade of a student based on assessments and exam scores.
-        
-    LoanCalculator.java
-        Description: Java program for calculating monthly payment and profit based on loan amount and duration.
-        
-    NumberAnalyzer.java
-        Description: Java program for analyzing numbers in an array.
-        
-    OddEvenSumCalculator.java
-        Description: Java program for calculating the sum of odd and even numbers in an array.
-        
-    PayrollManagement.java
-        Description: Java program for managing payroll information.
-        
-    PersonInformation.java
-        Description: Java program for collecting and displaying personal information.
-        
-    StudentInfoProcessor.java
-        Description: Java program for processing student information.
-
-
-Feel free to explore each activity to understand the concepts and skills developed during your freshman year. For specific instructions on running each program, refer to the comments within the code files.
+Programs: This directory houses various standalone Java programs covering fundamental programming concepts such as loops, conditionals, arrays, and functions.
+Projects: Explore larger projects that demonstrate your ability to apply Java programming principles to solve more complex problems. These projects may include simple games, data management systems, or utility applications.
+Assignments: In this directory, you'll find assignments completed as part of coursework. These assignments may involve problem-solving tasks, algorithm implementations, or exercises designed to reinforce specific Java concepts taught in class.
+Documentation: Supplemental documentation, including README files, explanations of algorithms, and comments within the code to help understand the purpose and functionality of each program or project.
