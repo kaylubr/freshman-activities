@@ -1,4 +1,4 @@
-Java First Year Activities Repository
+<h1>Java First Year Activities Repository</h1>
 
 Welcome to the Java First Year Activities Repository! This repository contains a collection of Java programs and projects completed during your first year of Java programming. From introductory exercises to more complex projects, this repository showcases your journey in learning Java programming concepts and techniques.
 
