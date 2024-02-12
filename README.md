@@ -2,7 +2,7 @@
 
 Welcome to the Java First Year Activities Repository! This repository contains a collection of Java programs and projects completed during your first year of Java programming. From introductory exercises to more complex projects, this repository showcases your journey in learning Java programming concepts and techniques.
 
-Contents
+<h1>Contents</h1>
 
 Programs: This directory houses various standalone Java programs covering fundamental programming concepts such as loops, conditionals, arrays, and functions.
 Projects: Explore larger projects that demonstrate your ability to apply Java programming principles to solve more complex problems. These projects may include simple games, data management systems, or utility applications.
