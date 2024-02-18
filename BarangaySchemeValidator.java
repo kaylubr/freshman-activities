@@ -6,7 +6,7 @@
 import java.util.Scanner;
 
 /**
- *
+ * A java programming exam that has the instruction to use ternary.
  * @author reyeskl
  */
 public class BarangaySchemeValidator {
