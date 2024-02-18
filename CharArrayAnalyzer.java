@@ -6,7 +6,7 @@
 import java.util.Scanner;
 
 /**
- *
+ * Instructions were to use functions to operate characters inside of an array
  * @author reyeskl
  */
 public class CharArrayAnalyzer {
