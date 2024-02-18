@@ -4,4 +4,4 @@ Welcome to the Java First Year Activities Repository! This repository contains a
 
 <h1>Contents</h1>
 
-These projects consists of easy projects to a bit more complicated ones. From concatenating strings to using manipulating lists.
+These projects consists of easy projects to a bit more complicated ones. From concatenating strings to manipulating lists.
